@@ -1,0 +1,5 @@
+title: OpenCore-Legacy-Tahoe_Patchset
+description: OpenCore-Legacy-Tahoe_Patchset / Experience macOS just like before
+github:
+  repository_url: https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset
+remote_theme: chris1111/cayman-dark
