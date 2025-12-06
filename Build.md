@@ -9,7 +9,7 @@ View ☞ [BUILD-OCLP-Tahoe-Patchset.command](https://github.com/chris1111/OpenCo
 Download ➦ [BUILD-OCLP-Tahoe-Patchset.zip](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/raw/refs/heads/tahoe-patchset/BUILD-OCLP-Tahoe-Patchset.zip)
 
 
-<div align="center">
+<div align="left">
              <img src="docs/images/Screenshot.png" alt="Command" width="600" />
 
   
