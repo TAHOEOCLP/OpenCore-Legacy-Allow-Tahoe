@@ -2,7 +2,7 @@
              <img src="docs/images/OC-Patcher.png" alt="OpenCore Patcher Logo" width="256" />
              <h1>OpenCore-Legacy-Tahoe_Patchset</h1>
              <h3>Package for fixing (Broadcom Wifi/Bluetooth) and AppleHDA in macOS Tahoe 26</h3>
-             Important: (Do not attempt to solve Intel Graphics or Kepler problems with this program; it will not work!)  
+             Important: Do not attempt to solve (Tahoe Intel Graphics or Kepler problems) with this program; it will not work!  
   
 </div>
 
