@@ -6,6 +6,7 @@
   
 </div>
 
+[![CI - Build wxPython](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/actions/workflows/build-app-wxpython.yml/badge.svg)](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/actions/workflows/build-app-wxpython.yml)
  -----------------------------------------------------------------------------------------------------------
  This is a Fork of (lzhoang2801/OpenCore-Legacy-Patcher)
 
