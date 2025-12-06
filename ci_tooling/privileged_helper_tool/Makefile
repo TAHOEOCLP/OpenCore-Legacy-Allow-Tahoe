@@ -1,10 +1,7 @@
 CC=clang
 OUTPUT=com.dortania.opencore-legacy-patcher.privileged-helper
 
-all: clean release
-
-release: main.m
-	$(CC) -framework Foundation -framework Security -arch x86_64 -arch arm64 -mmacosx-version-min=10.9 -o $(OUTPUT) main.m
+all: clean debug
 
 debug: main.m
 	$(CC) -framework Foundation -framework Security -arch x86_64 -arch arm64 -mmacosx-version-min=10.9 -o $(OUTPUT) main.m -DDEBUG
