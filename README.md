@@ -15,7 +15,7 @@ Our project's main goal is to breathe new life into Macs no longer supported by 
 
 #### Running from source: To run the project from source, see here: ➤ [Build and run from source](./Build.md)
 
-#### Download ➥ Release V-3.0.0: [OpenCore-Legacy-Tahoe-Patchset](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/releases/tag/v-3.0.0)
+#### Download ➥ Release V-3.0.0: [OpenCore-Legacy-Tahoe-Patchset](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/releases/tag/V-3.0.0)
 
 #### Download ➥ From Actions Build: [Artifacts](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/actions)
 
