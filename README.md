@@ -1,13 +1,14 @@
-<div align="center">
-             <img src="docs/images/OC-Patcher.png" alt="OpenCore Patcher Logo" width="256" />
-             <h1>OpenCore-Legacy-Tahoe_Patchset</h1>
-             <h3>Package for fixing (Broadcom Wifi/Bluetooth) and AppleHDA in macOS Tahoe 26</h3>
-             <h4>Important: Do not attempt to solve (Tahoe Intel Graphics or Kepler problems) with this program; it will not work!</h4>
-             <h4>While waiting for the official version of OCLP 3.0.0, [lzhoang2801] managed to get Broadcom Wi-Fi working in Tahoe 26. I take no credit for the patch he provided.</h4>
-  
+# OpenCore-Legacy-Tahoe_Patchset
+[![CI - Build wxPython](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/actions/workflows/build-app-wxpython.yml/badge.svg)](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/actions/workflows/build-app-wxpython.yml)
+
+<div align="left">
+<img src="docs/images/OC-Patcher.png" alt="OpenCore Patcher Logo" width="256" />
+<h1>OpenCore-Legacy-Tahoe_Patchset</h1>
+<h3>Package for fixing (Broadcom Wifi/Bluetooth) and AppleHDA in macOS Tahoe 26</h3>
+<h4>Important: Do not attempt to solve (Tahoe Intel Graphics or Kepler problems) with this program; it will not work!</h4>
+<h4>While waiting for the official version of OCLP 3.0.0, [lzhoang2801] managed to get Broadcom Wi-Fi working in Tahoe 26. I take no credit for the patch he provided.</h4> 
 </div>
 
-[![CI - Build wxPython](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/actions/workflows/build-app-wxpython.yml/badge.svg)](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/actions/workflows/build-app-wxpython.yml)
  -----------------------------------------------------------------------------------------------------------
  This is a Fork of (lzhoang2801/OpenCore-Legacy-Patcher)
 
