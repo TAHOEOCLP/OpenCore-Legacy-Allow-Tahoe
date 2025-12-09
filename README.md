@@ -23,7 +23,7 @@ Our project's main goal is to breathe new life into Macs no longer supported by 
 
 #### Download ➥ From Actions Build: [Artifacts](https://github.com/TAHOEOCLP/OpenCore-Legacy-Allow-Tahoe/actions)
 
-#### Download ➥ From Nightly Build  https://nightly.link/TAHOEOCLP/OpenCore-Legacy-Allow-Tahoe/actions/runs/20074915087 
+#### Download ➥ From Nightly Build  [Nightly Build](https://nightly.link/TAHOEOCLP/OpenCore-Legacy-Allow-Tahoe/actions/runs/20074915087)
 
 ----------
 
