@@ -12,7 +12,7 @@ jobs:
   build:
     name: Build wxPython
     runs-on: macos-15-intel
-    if: github.repository_owner == 'chris1111'
+    if: github.repository_owner == 'TAHOEOCLP'
 
     env:
       # GitHub Information
