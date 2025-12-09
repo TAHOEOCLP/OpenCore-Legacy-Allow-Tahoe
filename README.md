@@ -3,13 +3,13 @@
 
 <div align="left">
 <img src="docs/images/OC-Patcher.png" alt="OpenCore Patcher Logo" width="256" />
-<h3>Package for fixing (Broadcom Wifi/Bluetooth) and AppleHDA in macOS Tahoe 26</h3>
+<h3>this is a Package for fixing (Broadcom Wifi/Bluetooth) and AppleHDA in macOS Tahoe 26</h3>
 <h4>Important: Do not attempt to solve (Tahoe Intel Graphics or Kepler problems) with this program; it will not work!</h4>
-<h4>While waiting for the official version of OCLP 3.0.0, [lzhoang2801] managed to get Broadcom Wi-Fi working in Tahoe 26. I take no credit for the patch he provided.</h4> 
+<h4>While waiting for the official version of OCLP 3.0.0, [lzhoang2801] managed to get Broadcom Wi-Fi working in Tahoe 26. I take no oh hi guys i am the reddit repositery that i created the running macos tahoe on a unsupported mac: https://www.reddit.com/r/OpenCoreLegacyPatcher/comments/1pfqwuw/macbookpro92_13_inch_2012_running_macos_tahoe/ credit for the patch he provided.</h4> 
 </div>
 
  -----------------------------------------------------------------------------------------------------------
- This is a Fork of (lzhoang2801/OpenCore-Legacy-Patcher)
+ This is a Fork of (lzhoang2801 and chris1111/OpenCore-Legacy-Patcher)
 
 A Python-based project revolving around [Acidanthera's OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) and [Lilu](https://github.com/acidanthera/Lilu) for both running and unlocking features in macOS on supported and unsupported Macs.
 
@@ -19,7 +19,7 @@ Our project's main goal is to breathe new life into Macs no longer supported by 
 
 #### Running from source: To run the project from source, see here: ➤ [Build and run from source](./Build.md)
 
-#### Download ➥ Release V-3.0.0: [OpenCore-Legacy-Tahoe-Patchset](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/releases/tag/V-3.0.0)
+#### Download ➥ Release 3.0.0: [OpenCore-Legacy-Tahoe-Patchset](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/releases/tag/V-3.0.0)
 
 #### Download ➥ From Actions Build: [Artifacts](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/actions)
 
