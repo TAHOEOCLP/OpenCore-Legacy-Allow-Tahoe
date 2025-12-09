@@ -1,4 +1,4 @@
-# OpenCore-Legacy-Tahoe_Patchset
+# OpenCore-Legacy-Tahoe_Root_Patcher
 [![CI - Build wxPython](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/actions/workflows/build-app-wxpython.yml/badge.svg)](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/actions/workflows/build-app-wxpython.yml)
 
 <div align="left">
