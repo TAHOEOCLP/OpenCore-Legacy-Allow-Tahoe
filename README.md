@@ -25,6 +25,14 @@ Our project's main goal is to breathe new life into Macs no longer supported by 
 
 #### Download ➥ From Nightly Build  [Nightly Build](https://nightly.link/TAHOEOCLP/OpenCore-Legacy-Allow-Tahoe/actions/runs/20074915087)
 
+Some Features On This Fork
+
+1: New Front Page On pkgs
+
+2: New Icons And Opencore On Boot picker
+
+3: New Modern Menu
+
 ----------
 
 
