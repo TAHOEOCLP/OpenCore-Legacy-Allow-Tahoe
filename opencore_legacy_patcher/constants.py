@@ -33,12 +33,12 @@ class Constants:
         # Kext Versioning
         ## Acidanthera
         ## https://github.com/acidanthera
-        self.lilu_version:               str = "1.7.0"  #      Lilu
-        self.whatevergreen_version:      str = "1.6.9"  #      WhateverGreen
+        self.lilu_version:               str = "1.7.1"  #      Lilu
+        self.whatevergreen_version:      str = "1.7.0"  #      WhateverGreen
         self.whatevergreen_navi_version: str = "1.6.9-Navi"  # WhateverGreen (Navi Patch)
-        self.airportbcrmfixup_version:   str = "2.1.9"  #      AirPortBrcmFixup
+        self.airportbcrmfixup_version:   str = "2.2.0"  #      AirPortBrcmFixup
         self.nvmefix_version:            str = "1.1.2"  #      NVMeFix
-        self.applealc_version:           str = "1.6.3"  #      AppleALC
+        self.applealc_version:           str = "1.9.5"  #      AppleALC
         self.restrictevents_version:     str = "1.1.5"  #      RestrictEvents
         self.featureunlock_version:      str = "1.1.7"  #      FeatureUnlock
         self.debugenhancer_version:      str = "1.1.0"  #      DebugEnhancer
@@ -249,6 +249,7 @@ class Constants:
             os_data.os_data.ventura,
             os_data.os_data.sonoma,
             os_data.os_data.sequoia,
+            os_data.os_data.tahoe,
         ]
 
     @property
