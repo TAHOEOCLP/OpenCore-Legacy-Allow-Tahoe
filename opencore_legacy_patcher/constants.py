@@ -370,11 +370,11 @@ class Constants:
 
     @property
     def lilu_path(self):
-        return self.payload_kexts_path / Path(f"Acidanthera/Lilu-v{self.lilu_version}-{self.kext_variant}.zip")
+        return self.payload_kexts_path / Path(f"Acidanthera/Lilu-{self.lilu_version}-{self.kext_variant}.zip")
 
     @property
     def whatevergreen_path(self):
-        return self.payload_kexts_path / Path(f"Acidanthera/WhateverGreen-v{self.whatevergreen_version}-{self.kext_variant}.zip")
+        return self.payload_kexts_path / Path(f"Acidanthera/WhateverGreen-{self.whatevergreen_version}-{self.kext_variant}.zip")
 
     @property
     def whatevergreen_navi_path(self):
@@ -382,7 +382,7 @@ class Constants:
 
     @property
     def airportbcrmfixup_path(self):
-        return self.payload_kexts_path / Path(f"Acidanthera/AirportBrcmFixup-v{self.airportbcrmfixup_version}-{self.kext_variant}.zip")
+        return self.payload_kexts_path / Path(f"Acidanthera/AirportBrcmFixup-{self.airportbcrmfixup_version}-{self.kext_variant}.zip")
 
     @property
     def restrictevents_path(self):
