@@ -1,4 +1,5 @@
 # OpenCore-Legacy-Tahoe_Root_Patcher
+THIS VERSION HAS ARCHIVED ON july 12 all has been moved thanks to torxed And OCLP ELITE
 [![CI - Build wxPython](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/actions/workflows/build-app-wxpython.yml/badge.svg)](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset/actions/workflows/build-app-wxpython.yml)
 
 <div align="left">
